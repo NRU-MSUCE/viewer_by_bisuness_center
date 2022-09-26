@@ -1,2 +1,2 @@
-# viewer_by_bisuness_center
+# viewer_by_business_center
 Просмотр модели
